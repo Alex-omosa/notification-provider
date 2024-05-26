@@ -1,0 +1,11 @@
+/Users/alexomosa/OpenSource/wasmCloud/examples/rust/providers/custom-template/target/debug/deps/libconst_oid-c7737fe9a443f120.rmeta: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/checked.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/arcs.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/encoder.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/error.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/parser.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/../README.md
+
+/Users/alexomosa/OpenSource/wasmCloud/examples/rust/providers/custom-template/target/debug/deps/const_oid-c7737fe9a443f120.d: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/checked.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/arcs.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/encoder.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/error.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/parser.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/../README.md
+
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/lib.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/checked.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/arcs.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/encoder.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/error.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/parser.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-oid-0.9.6/src/../README.md:

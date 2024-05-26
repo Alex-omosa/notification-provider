@@ -1,0 +1,7 @@
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/libopentelemetry_semantic_conventions-04a482c889c66761.rmeta: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/resource.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/trace.rs
+
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/opentelemetry_semantic_conventions-04a482c889c66761.d: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/resource.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/trace.rs
+
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/lib.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/resource.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-semantic-conventions-0.13.0/src/trace.rs:

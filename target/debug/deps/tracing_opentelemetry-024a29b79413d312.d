@@ -1,0 +1,8 @@
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/libtracing_opentelemetry-024a29b79413d312.rmeta: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/layer.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/span_ext.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/tracer.rs
+
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/tracing_opentelemetry-024a29b79413d312.d: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/layer.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/span_ext.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/tracer.rs
+
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/lib.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/layer.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/span_ext.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-opentelemetry-0.22.0/src/tracer.rs:

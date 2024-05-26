@@ -1,0 +1,10 @@
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/libwit_bindgen_core-0f179c011f67fabb.rmeta: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/libwit_bindgen_core-0f179c011f67fabb.rlib: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/Users/alexomosa/Desktop/labs/providers/notification-provider/target/debug/deps/wit_bindgen_core-0f179c011f67fabb.d: /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs:
+/Users/alexomosa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs:
